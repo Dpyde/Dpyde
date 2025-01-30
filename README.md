@@ -1,2 +1,2 @@
 # Dpydde
-READMEPLS
+curiosity makes you smarter
