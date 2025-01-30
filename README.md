@@ -1,2 +1,2 @@
 # Dpyde
-curiosity makes you smarter
+Curiosity makes you smarter
