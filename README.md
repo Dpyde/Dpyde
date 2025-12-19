@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=D16B8F&center=true&vCenter=true&width=940&lines=Hello!+I'm+Thukdanai+Thaothawin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=289EE5&center=true&vCenter=true&width=940&lines=Hello!+I'm+Thukdanai+Thaothawin" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Student at Chulalongkorn University</h3>
+<h3 align="center">🎓 Student at Computer Engineering, Chulalongkorn University</h3>
 
 <p align="center">
   <a href="https://github.com/Dpyde"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
